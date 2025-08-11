@@ -14,9 +14,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level2.unity
     guid: cf11e8c9665c6b048b511fa311b3dca6
-  - enabled: 1
-    path: Assets/Flooded_Grounds/Scenes/Scene_A.unity
-    guid: c0d944ca9defd20449bc336e50d75a08
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
