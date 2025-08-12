@@ -255,11 +255,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ec920c63e1d8ad4198465d60ada67b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
-  sensitivity: 30
-  WaterHeight: 15.5
+  speed: 5
+  sensitivity: 60
+  WaterHeight: -10
   cam: {fileID: 1198389065402468}
-  webGLRightClickRotation: 1
+  webGLRightClickRotation: 0
 --- !u!114 &6453621327143030597
 MonoBehaviour:
   m_ObjectHideFlags: 0

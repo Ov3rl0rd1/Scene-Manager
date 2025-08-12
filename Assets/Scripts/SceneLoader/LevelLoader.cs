@@ -29,7 +29,6 @@ public class LevelLoader : MonoBehaviour
         if (_loadedScenes.Count != 0)
         {
             loadScene.completed += (a) => UnloadScene();
-            loadScene.allowSceneActivation = false;
         }
 
         loadScene.completed += (a) => Resources.UnloadUnusedAssets();
